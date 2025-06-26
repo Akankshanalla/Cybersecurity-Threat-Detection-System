@@ -27,6 +27,12 @@ This project uses an unsupervised machine learning approach (Isolation Forest) t
 
 ```bash
 pip install pandas scikit-learn matplotlib seaborn
+```
 
+---
 
-##vaj
+## 📬 Contact
+Developer: Akanksha Nalla
+Email: nallaakanksha369@gmail.com
+
+---
